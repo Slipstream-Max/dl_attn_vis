@@ -11,7 +11,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 then clone the repository and sync the dependencies
 ```bash
-git clone xxx
+git clone https://github.com/Slipstream-Max/dl_attn_vis.git
 uv sync
 ```
 
